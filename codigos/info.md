@@ -11,3 +11,4 @@ Os arquivos são os seguintes:
 - sketch.ino => Código do dispositivo - código em C++ com as funcionalidades do dispositivo. 
 
 ### Emulador de nuvem em python
+- main.py => Código em python, que emula um sistema em nuvem que rastreia a posição dos onibus. Até o momento, este código, apenas emula o rastreamento, não faz rastreamento de fato. Ele é apenas para prototipagem.
