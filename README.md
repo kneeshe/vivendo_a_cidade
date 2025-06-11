@@ -12,4 +12,4 @@ Para o rastreamento das linhas, um sistema em python na nuvem, foi usado.
 - Emulador ESP32 => https://wokwi.com/projects/429596507859481601
 - Emulador python => https://replit.com/@felipaopapaizin/ViVendo
 - Apresentação => https://docs.google.com/presentation/d/1tPeeM1Dxl9Gqkwd1g44CUXcUHXPu73W3/edit?usp=sharing&ouid=103788524850207103121&rtpof=true&sd=true
-- Video =>
+- Video => https://youtu.be/9EbDNtISF9A
