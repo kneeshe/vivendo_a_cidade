@@ -12,3 +12,6 @@ Os arquivos são os seguintes:
 
 ### Emulador de nuvem em python
 - main.py => Código em python, que emula um sistema em nuvem que rastreia a posição dos onibus. Até o momento, este código, apenas emula o rastreamento, não faz rastreamento de fato. Ele é apenas para prototipagem.
+
+### API em python
+- BD-Onibus => Essa api, feita em python, realiza o rastreio real dos veiculos, porém, como ela depende de api's estrangeiras, o rastreio é feito com veiculos que não são da cidade de Ribeirão Preto. Ela foi para testes de viabilidade de rastreio, porém, para fins de prototipagem e demonstração, o **emulador de nuvem em python** foi escolhido para ser o principal. Essa pasta está salva para fins de documentação e consultas.
